@@ -1,5 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'fontsource-noto-sans-kr/300.css';
+import 'fontsource-noto-sans-kr/400.css';
+import 'fontsource-noto-sans-kr/900.css';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
