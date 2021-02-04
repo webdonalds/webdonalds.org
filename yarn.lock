@@ -5292,11 +5292,6 @@ follow-redirects@^1.0.0:
   dependencies:
     debug "^3.0.0"
 
-fontsource-noto-sans-kr@^3.0.9:
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/fontsource-noto-sans-kr/-/fontsource-noto-sans-kr-3.0.9.tgz#006539d6c42585865f0fa69da5d139fdad986ff0"
-  integrity sha512-UV3nUHNm3L7f9Re6SZhCh/ZRTUJ46QBP7PcafmFlNXRQGQPlg86Zih73TXSO55aEBrdXK+kOXzftmatWy5OqHA==
-
 for-in@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"

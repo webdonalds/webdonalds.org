@@ -126,7 +126,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans: ['"Noto Sans KR"', ...defaultTheme.fontFamily.sans],
+        sans: ['"Spoqa Han Sans Neo"', ...defaultTheme.fontFamily.sans],
       },
     },
   },
